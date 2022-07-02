@@ -1,4 +1,4 @@
-# HTML-Assignment
+# Brainnest HTML-Assignment
 
 This website is a Brainnest HTML assignment based on some of my favorite movies and places I would like to visit.
 
